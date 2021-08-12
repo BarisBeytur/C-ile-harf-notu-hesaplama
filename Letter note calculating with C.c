@@ -29,7 +29,7 @@ int main() {
 
 	FD 40-49
 
-	FF 39 ve Altı 
+	FF 39 ve AltÃ½ 
 	
 	*/
 	
